@@ -3,13 +3,18 @@ body {
     background-color: wheat;
 }
 
-ol{
+ol,ul{
     display: inline-block;
     text-align: left;
+    margin: 0;
 }
 
 h1,h3{
     text-decoration: underline;
     font-weight: bold;
     color: black;
+}
+
+li{
+    margin: 5px;
 }

@@ -1,0 +1,9 @@
+body {
+    text-align: center;
+    background-color: wheat;
+}
+
+ol{
+    display: inline-block;
+    text-align: left;
+}
